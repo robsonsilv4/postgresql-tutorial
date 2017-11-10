@@ -1,4 +1,4 @@
-# PostgreSQL Tutorial: Tradução dos artigos do site: [postgreesqltutorial.com](https://postgresqltutorial.com)
+# PostgreSQL Tutorial: Tradução dos artigos do site: [postgresqltutorial.com](http://www.postgresqltutorial.com/)
  
 Contribua também com a tradução!
 
